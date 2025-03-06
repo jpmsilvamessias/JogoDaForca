@@ -1,0 +1,14 @@
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\bin\Debug\net8.0\JogodaForca.exe
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\bin\Debug\net8.0\JogodaForca.deps.json
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\bin\Debug\net8.0\JogodaForca.runtimeconfig.json
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\bin\Debug\net8.0\JogodaForca.dll
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\bin\Debug\net8.0\JogodaForca.pdb
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.AssemblyInfoInputs.cache
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.AssemblyInfo.cs
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.dll
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\obj\Debug\net8.0\refint\JogodaForca.dll
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.pdb
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.genruntimeconfig.cache
+C:\Users\joaop\Downloads\JogodaForca\JogodaForca\obj\Debug\net8.0\ref\JogodaForca.dll
